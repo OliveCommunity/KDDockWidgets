@@ -11,7 +11,7 @@
 
 #pragma once
 
-#include "core/Window_p.h"
+#include "../core/Window_p.h"
 #include "Screen_p.h"
 
 #include <QPointer>
